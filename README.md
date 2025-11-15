@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0238-product-of-array-except-self) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 ## Hash Table
 |  |
@@ -51,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0152-maximum-product-subarray) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
