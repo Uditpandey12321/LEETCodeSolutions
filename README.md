@@ -90,4 +90,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0029-divide-two-integers) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0234-palindrome-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
