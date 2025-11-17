@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0029-divide-two-integers) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/1636-number-of-substrings-with-only-1s) |
 ## Depth-First Search
 |  |
@@ -84,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0547-number-of-provinces) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
