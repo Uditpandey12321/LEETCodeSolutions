@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0238-product-of-array-except-self) |
 | [0713-subarray-product-less-than-k](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0713-subarray-product-less-than-k) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0717-1-bit-and-2-bit-characters) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0229-majority-element-ii) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Counting
 |  |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0152-maximum-product-subarray) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/1262-greatest-sum-divisible-by-three) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -120,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0234-palindrome-linked-list) |
+## Greedy
+|  |
+| ------- |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/1262-greatest-sum-divisible-by-three) |
 <!---LeetCode Topics End-->
