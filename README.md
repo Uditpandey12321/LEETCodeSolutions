@@ -127,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/1262-greatest-sum-divisible-by-three) |
+## Database
+|  |
+| ------- |
+| [0178-rank-scores](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0178-rank-scores) |
 <!---LeetCode Topics End-->
