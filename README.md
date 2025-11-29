@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1143-longest-common-subsequence](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/1143-longest-common-subsequence) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0152-maximum-product-subarray) |
+| [1143-longest-common-subsequence](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/1143-longest-common-subsequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/1262-greatest-sum-divisible-by-three) |
 ## Prefix Sum
 |  |
