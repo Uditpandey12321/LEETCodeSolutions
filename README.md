@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0029-divide-two-integers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
