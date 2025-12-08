@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1925-count-square-sum-triples](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/1925-count-square-sum-triples) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 ## Brainteaser
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1925-count-square-sum-triples](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/1925-count-square-sum-triples) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3623-count-number-of-trapezoids-i) |
