@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0547-number-of-provinces) |
+| [0572-subtree-of-another-tree](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0572-subtree-of-another-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Breadth-First Search
 |  |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0572-subtree-of-another-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Geometry
 |  |
@@ -187,4 +189,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0572-subtree-of-another-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
