@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1590-make-sum-divisible-by-p](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0152-maximum-product-subarray) |
 | [1143-longest-common-subsequence](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/1143-longest-common-subsequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/1262-greatest-sum-divisible-by-three) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 ## Prefix Sum
 |  |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1925-count-square-sum-triples](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/1925-count-square-sum-triples) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3433-count-mentions-per-user](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3433-count-mentions-per-user) |
