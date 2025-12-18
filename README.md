@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3606-coupon-code-validator) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0713-subarray-product-less-than-k) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Enumeration
 |  |
 | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0713-subarray-product-less-than-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Binary Search
 |  |
 | ------- |
