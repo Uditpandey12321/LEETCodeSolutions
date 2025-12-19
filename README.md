@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3433-count-mentions-per-user](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3433-count-mentions-per-user) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0029-divide-two-integers) |
 | [0268-missing-number](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0268-missing-number) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Linked List
 |  |
 | ------- |
