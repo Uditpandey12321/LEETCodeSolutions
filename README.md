@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0268-missing-number) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/1262-greatest-sum-divisible-by-three) |
+| [2092-find-all-people-with-secret](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3433-count-mentions-per-user](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3433-count-mentions-per-user) |
@@ -148,20 +149,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0572-subtree-of-another-tree) |
+| [2092-find-all-people-with-secret](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/2092-find-all-people-with-secret) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0547-number-of-provinces) |
+| [2092-find-all-people-with-secret](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/2092-find-all-people-with-secret) |
 ## Union Find
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0547-number-of-provinces) |
+| [2092-find-all-people-with-secret](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/2092-find-all-people-with-secret) |
 ## Graph
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0547-number-of-provinces) |
+| [2092-find-all-people-with-secret](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/2092-find-all-people-with-secret) |
 ## Bit Manipulation
 |  |
 | ------- |
