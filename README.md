@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2141-maximum-running-time-of-n-computers](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3433-count-mentions-per-user](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3433-count-mentions-per-user) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3531-count-covered-buildings) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3531-count-covered-buildings](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3606-coupon-code-validator) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3433-count-mentions-per-user](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3433-count-mentions-per-user) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
