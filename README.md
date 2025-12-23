@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1590-make-sum-divisible-by-p](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
+| [2054-two-best-non-overlapping-events](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0268-missing-number) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/1262-greatest-sum-divisible-by-three) |
+| [2054-two-best-non-overlapping-events](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/1143-longest-common-subsequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [2054-two-best-non-overlapping-events](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0268-missing-number) |
 | [0713-subarray-product-less-than-k](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0713-subarray-product-less-than-k) |
+| [2054-two-best-non-overlapping-events](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Math
 |  |
@@ -255,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2054-two-best-non-overlapping-events](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/2054-two-best-non-overlapping-events) |
 <!---LeetCode Topics End-->
