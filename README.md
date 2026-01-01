@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0066-plus-one) |
 | [0152-maximum-product-subarray](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0229-majority-element-ii) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0029-divide-two-integers) |
+| [0066-plus-one](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0268-missing-number) |
 | [0840-magic-squares-in-grid](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0840-magic-squares-in-grid) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/1015-smallest-integer-divisible-by-k) |
