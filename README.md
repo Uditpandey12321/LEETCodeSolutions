@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0268-missing-number) |
 | [0756-pyramid-transition-matrix](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0840-magic-squares-in-grid) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/1590-make-sum-divisible-by-p) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0572-subtree-of-another-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2092-find-all-people-with-secret](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/2092-find-all-people-with-secret) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0547-number-of-provinces) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2092-find-all-people-with-secret](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/2092-find-all-people-with-secret) |
 ## Union Find
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0572-subtree-of-another-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -290,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0572-subtree-of-another-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Hash Function
