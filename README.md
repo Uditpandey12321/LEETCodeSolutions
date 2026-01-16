@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0024-swap-nodes-in-pairs](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0234-palindrome-linked-list](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0328-odd-even-linked-list) |
 ## Two Pointers
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0234-palindrome-linked-list](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0234-palindrome-linked-list) |
 ## Greedy
 |  |
