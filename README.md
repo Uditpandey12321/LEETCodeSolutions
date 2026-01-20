@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0008-string-to-integer-atoi) |
 | [0756-pyramid-transition-matrix](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0756-pyramid-transition-matrix) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
