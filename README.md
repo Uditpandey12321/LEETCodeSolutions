@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3433-count-mentions-per-user](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3433-count-mentions-per-user) |
 | [3453-separate-squares-i](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3453-separate-squares-i) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3531-count-covered-buildings) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2402-meeting-rooms-iii](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/2402-meeting-rooms-iii) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3531-count-covered-buildings](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3606-coupon-code-validator) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2402-meeting-rooms-iii](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/2402-meeting-rooms-iii) |
 | [3433-count-mentions-per-user](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3433-count-mentions-per-user) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0234-palindrome-linked-list](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0328-odd-even-linked-list) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -326,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2054-two-best-non-overlapping-events](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2402-meeting-rooms-iii](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/2402-meeting-rooms-iii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Matrix
 |  |
 | ------- |
@@ -337,4 +342,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0756-pyramid-transition-matrix](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0756-pyramid-transition-matrix) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Ordered Set
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
