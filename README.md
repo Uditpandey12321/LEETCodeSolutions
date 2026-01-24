@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0008-string-to-integer-atoi) |
+| [0022-generate-parentheses](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0022-generate-parentheses) |
 | [0756-pyramid-transition-matrix](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0756-pyramid-transition-matrix) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0022-generate-parentheses) |
 | [0152-maximum-product-subarray](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0152-maximum-product-subarray) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1143-longest-common-subsequence](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/1143-longest-common-subsequence) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0022-generate-parentheses) |
 | [0756-pyramid-transition-matrix](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0756-pyramid-transition-matrix) |
 ## Doubly-Linked List
 |  |
