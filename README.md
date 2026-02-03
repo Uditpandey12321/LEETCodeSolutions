@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2092-find-all-people-with-secret](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2285-maximum-total-importance-of-roads](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/2285-maximum-total-importance-of-roads) |
 | [2402-meeting-rooms-iii](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/2402-meeting-rooms-iii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1975-maximum-matrix-sum](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/1975-maximum-matrix-sum) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2285-maximum-total-importance-of-roads](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/2285-maximum-total-importance-of-roads) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Database
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0023-merge-k-sorted-lists) |
 | [2054-two-best-non-overlapping-events](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/2054-two-best-non-overlapping-events) |
+| [2285-maximum-total-importance-of-roads](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/2285-maximum-total-importance-of-roads) |
 | [2402-meeting-rooms-iii](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/2402-meeting-rooms-iii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Matrix
@@ -363,4 +366,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0023-merge-k-sorted-lists) |
+## Graph Theory
+|  |
+| ------- |
+| [2285-maximum-total-importance-of-roads](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/2285-maximum-total-importance-of-roads) |
 <!---LeetCode Topics End-->
