@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0234-palindrome-linked-list](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0328-odd-even-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0876-middle-of-the-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Two Pointers
 |  |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0031-next-permutation) |
 | [0234-palindrome-linked-list](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0234-palindrome-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
 |  |
 | ------- |
