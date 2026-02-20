@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1590-make-sum-divisible-by-p](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/1590-make-sum-divisible-by-p) |
@@ -140,11 +141,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Simulation
 |  |
 | ------- |
+| [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [2211-count-collisions-on-a-road](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/2211-count-collisions-on-a-road) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/2274-keep-multiplying-found-values-by-two) |
