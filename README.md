@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0016-3sum-closest) |
+| [0031-next-permutation](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0031-next-permutation) |
 | [0056-merge-intervals](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0066-plus-one) |
 | [0152-maximum-product-subarray](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0152-maximum-product-subarray) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0031-next-permutation](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0031-next-permutation) |
 | [0234-palindrome-linked-list](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
