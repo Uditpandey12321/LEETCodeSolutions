@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1143-longest-common-subsequence](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/1143-longest-common-subsequence) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [2211-count-collisions-on-a-road](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/2211-count-collisions-on-a-road) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0234-palindrome-linked-list](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0234-palindrome-linked-list) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Greedy
 |  |
 | ------- |
