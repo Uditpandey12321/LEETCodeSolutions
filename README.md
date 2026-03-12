@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3453-separate-squares-i](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3453-separate-squares-i) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Math
 |  |
 | ------- |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2285-maximum-total-importance-of-roads](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/2285-maximum-total-importance-of-roads) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Database
 |  |
 | ------- |
@@ -405,4 +407,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2285-maximum-total-importance-of-roads](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/2285-maximum-total-importance-of-roads) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Union-Find
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 <!---LeetCode Topics End-->
