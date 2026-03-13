@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3075-maximize-happiness-of-selected-children](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3433-count-mentions-per-user](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3433-count-mentions-per-user) |
 | [3453-separate-squares-i](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3453-separate-squares-i) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2054-two-best-non-overlapping-events](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/2141-maximum-running-time-of-n-computers) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3453-separate-squares-i](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3453-separate-squares-i) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Math
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3433-count-mentions-per-user](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3433-count-mentions-per-user) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -321,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2285-maximum-total-importance-of-roads](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/2285-maximum-total-importance-of-roads) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Database
 |  |
@@ -376,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2285-maximum-total-importance-of-roads](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/2285-maximum-total-importance-of-roads) |
 | [2402-meeting-rooms-iii](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/2402-meeting-rooms-iii) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Matrix
 |  |
