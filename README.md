@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/1390-four-divisors) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1622-fancy-sequence](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/1622-fancy-sequence) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1925-count-square-sum-triples](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/1925-count-square-sum-triples) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -423,4 +424,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Design
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/1622-fancy-sequence) |
+## Segment Tree
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/1622-fancy-sequence) |
 <!---LeetCode Topics End-->
