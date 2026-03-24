@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0031-next-permutation) |
 | [0056-merge-intervals](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0229-majority-element-ii) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0268-missing-number) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0031-next-permutation) |
+| [0088-merge-sorted-array](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0234-palindrome-linked-list](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0876-middle-of-the-linked-list) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3643-flip-square-submatrix-vertically) |
