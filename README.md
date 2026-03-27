@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0152-maximum-product-subarray](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0023-merge-k-sorted-lists) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0169-majority-element) |
 ## Sorting
 |  |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0572-subtree-of-another-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -404,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0572-subtree-of-another-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -483,4 +487,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/1622-fancy-sequence) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
