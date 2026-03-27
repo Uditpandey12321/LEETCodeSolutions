@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0136-single-number](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0029-divide-two-integers) |
+| [0136-single-number](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0268-missing-number) |
 | [0756-pyramid-transition-matrix](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0756-pyramid-transition-matrix) |
 | [1009-complement-of-base-10-integer](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/1009-complement-of-base-10-integer) |
