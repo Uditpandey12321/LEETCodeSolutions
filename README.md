@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3433-count-mentions-per-user](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3433-count-mentions-per-user) |
 | [3453-separate-squares-i](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3453-separate-squares-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 ## Prefix Sum
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Backtracking
