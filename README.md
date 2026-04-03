@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3625-count-number-of-trapezoids-ii](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Hash Table
 |  |
 | ------- |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3433-count-mentions-per-user](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3531-count-covered-buildings) |
 | [3606-coupon-code-validator](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3606-coupon-code-validator) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Counting
 |  |
 | ------- |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3453-separate-squares-i](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3453-separate-squares-i) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Math
 |  |
 | ------- |
