@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0037-sudoku-solver) |
 | [0056-merge-intervals](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0012-integer-to-roman) |
+| [0037-sudoku-solver](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0037-sudoku-solver) |
 | [0169-majority-element](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0219-contains-duplicate-ii) |
@@ -475,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0037-sudoku-solver) |
 | [0840-magic-squares-in-grid](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -494,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0037-sudoku-solver) |
 | [0756-pyramid-transition-matrix](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0756-pyramid-transition-matrix) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/1980-find-unique-binary-string) |
