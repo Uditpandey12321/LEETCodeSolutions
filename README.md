@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0031-next-permutation) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0012-integer-to-roman) |
 | [0037-sudoku-solver](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0037-sudoku-solver) |
 | [0169-majority-element](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0169-majority-element) |
