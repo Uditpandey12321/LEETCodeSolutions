@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0383-ransom-note) |
 | [0657-robot-return-to-origin](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0657-robot-return-to-origin) |
 | [0756-pyramid-transition-matrix](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0756-pyramid-transition-matrix) |
+| [0796-rotate-string](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0796-rotate-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0572-subtree-of-another-tree) |
+| [0796-rotate-string](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/0796-rotate-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Uditpandey12321/LEETCodeSolutions/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Binary Tree
 |  |
